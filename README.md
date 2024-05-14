@@ -1,2 +1,2 @@
 # calculator_app
- This is a calcutor app
+ This is a calculator app
